@@ -4,12 +4,6 @@
     box-sizing: border-box;
 }
 
-/*body {
-    
-  font-family: Helvetica, Arial, sans-serif;
-  background-color: tomato;
-  }*/
-
   body {
     /* more on this crazy alphanumerical value in a minute! */
     color: #39a6b2;
@@ -50,13 +44,6 @@ header {
     font-size: 22px;
   }
 
-  header h1 {
-    font-weight: bold;
-    font-size: 36px;
-    color: #fce138;
-    margin: 0;
-    display: inline;
-  }
   
   footer {
       background: #fce138;
