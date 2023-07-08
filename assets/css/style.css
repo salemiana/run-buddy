@@ -30,7 +30,7 @@
   }
 
    header nav {
-    float: right;
+    /* float: right; */
     margin: 7px 0;
   }
 
@@ -115,7 +115,7 @@
     background-color: black;
   }
 
-  .steps {
+  /* .steps {
     text-align: center;
     background: #fce138;
   }
@@ -142,7 +142,7 @@
 
   .steps span {
     font-size: 38px;
-  }
+  } */
 
   .section-title {
     font-size: 55px;
@@ -153,13 +153,13 @@
     border-bottom: 3px solid;
   }
   
-  .primary-border {
+  /* .primary-border {
     border-color: #fce138;
-  }
+  } */
   
-  .secondary-border {
+  /* .secondary-border {
     border-color: #39a6b2;
-  }
+  } */
 
 
  /* section {
@@ -167,7 +167,7 @@
     position: relative;
   }*/
 
-  .trainers {
+  /* .trainers {
     text-align: center;
     background: white;
    
@@ -214,7 +214,7 @@
   
   .text-right {
     text-align: right;
-  }
+  } */
 
 
   /* REACH OUT STYLES START */
@@ -265,14 +265,14 @@
     padding: 40px 35px;
 }
 
-footer h2 {
+/* footer h2 {
   display: inline;
   color: #024e76;
   font-size: 30px;
   margin: 0;
-}
+} */
 
-footer div {
+/* footer div {
   float: right;
   line-height: 1.5;
   text-align: right;
@@ -280,7 +280,7 @@ footer div {
 
 footer a {
   color: #024e76;
-}
+} */
 
 
   
